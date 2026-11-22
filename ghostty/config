@@ -1,5 +1,4 @@
 font-family = Iosevka Term
-font-size = 18
 
 keybind = ctrl+1=goto_tab:1
 keybind = ctrl+2=goto_tab:2
@@ -15,3 +14,6 @@ keybind = command+h=goto_split:left
 keybind = command+k=goto_split:up
 keybind = command+j=goto_split:down
 keybind = command+l=goto_split:right
+
+
+config-file = ?local
