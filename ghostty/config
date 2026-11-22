@@ -16,4 +16,4 @@ keybind = command+j=goto_split:down
 keybind = command+l=goto_split:right
 
 
-config-file = ?local
+config-file = ?local.ghostty
